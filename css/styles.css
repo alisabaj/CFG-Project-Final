@@ -1,0 +1,17 @@
+.img-fluid {
+  display: flex;
+  width: 20vw;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 190px;
+}
+.img-thumbnail {
+  display: flex;
+  width: 20vw;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 190px;
+}
+.div-margins {
+  padding: 30px;
+}
